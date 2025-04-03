@@ -1,6 +1,5 @@
 # Sorting Visualizer
 
-## Overview
 Sorting Visualizer is a Java-based application that visually demonstrates various sorting algorithms. This project helps in understanding the working of sorting algorithms through animation.
 
 ## Features
