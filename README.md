@@ -20,7 +20,7 @@ Sorting Visualizer is a Java-based application that visually demonstrates variou
 ## Installation
 1. Clone this repository or download the source code:
    ```sh
-   git clone https://github.com/your-repo/sorting-visualizer.git
+   git clone https://github.com/Suraj-Singh-CSE/Sorting-Visualizer
    ```
 2. Navigate to the project directory:
    ```sh
